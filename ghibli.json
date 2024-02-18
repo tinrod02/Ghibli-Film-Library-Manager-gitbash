@@ -1,0 +1,519 @@
+[
+    {
+        "title": "My Neighbor Totoro",
+        "director": "Hayao Miyazaki",
+        "release_year": 1988,
+        "genre": "Adventure",
+        "plot_summary": "Satsuke and her younger sister, Mei, as they settle into an old country house with their father and wait for their mother to recover from an illness in an area hospital. As the sisters explore their new home, they encounter and befriend playful spirits and their house and the nearby forest, most notably massive cuddly creature known as Totoro",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Mei",
+                "roles": "the four-year-old protagonist little sister of Satsuki",
+                "description": " is a bold, happy girl, without any dark shadow sin her personality."
+            },
+            {
+                "name": "Satsuki",
+                "roles": "protaganist and older sister of Mei",
+                "description": " is a bright and cheerful individual. Also has short, walnut brown hair and chocolate brown eyes. "
+            },
+            {
+                "name": "Totoro",
+                "roles": "tetartagonist",
+                "description": " is a remnant member of Totoro Tribe which is at brink of extinction due to ancient battles against humanity."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Old House Rural Japan",
+                "description": "The girls arrive at the rather dilapidated but charming old house and discover that it might be haunted \u2013 much to their delight. When little soot sprites scoot out of the dark corners of the house, the girls get to work dusting and filling the house with laughter and light."
+            }
+        ]
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "director": "Hayao Miyazaki",
+        "release_year": 2004,
+        "genre": "Fantasy",
+        "plot_summary": "Sophie, a young milliner and eldest of three sisters, encounters a wizard named Howl on her way to visit her sister Lettie. Upon returning home, she meets the Witch of the Waste, who transforms her into a 90-year-old woman. Seeking to break the curse, Sophie leaves home and sets off through the countryside.",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Wizard Howl",
+                "roles": "male protagonist and a powerful wizard living in the land of Ingary",
+                "description": "Howl has shoulder-length straight flaxen blonde hair, light blue eyes, and a pale complexion. He is tall and slender. Very vain, for a plain looking man with mud-colored hair."
+            },
+            {
+                "name": "Sophie Hatter",
+                "roles": "female protagonist and heroine",
+                "description": "Sophie, age 18, has red-gold hair and blue-green eyes. She is considered to be rather pretty, although she doesn't perceive herself as such. She primarily wears the color grey, but this changes as her confidences grows"
+            },
+            {
+                "name": "Miss Angorian",
+                "roles": "The Witch of the Waste is the main antagonist and an attractive school teacher in Wales that woos Wizard Howl.",
+                "description": " Shes a beautiful young woman, with shiny black hair, olive skin, and big eyes."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Ingary",
+                "description": " Ingary is the name of the country and setting in the film, Howl's Moving Castle. Its capital is located in Kingsbury, and some of its major cities include Market Chipping and Porthaven."
+            }
+        ]
+    },
+    {
+        "title": "Kiki's Delivery Service",
+        "director": "Hayao Miyazaki",
+        "release_year": 1989,
+        "genre": "Horror",
+        "plot_summary": "13-year-old Kiki moves to a seaside town with her talking cat, Jiji, to spend a year alone, in accordance with her village's tradition for witches in training. After learning to control her broomstick, Kiki sets up a flying courier service and soon becomes a fixture in the community. But when the insecure young witch begins questioning herself and loses her magic abilities, she must overcome her self-doubt to get her powers back.",
+        "rating": 98.0,
+        "characters": [
+            {
+                "name": "Kiki",
+                "roles": "Central Portagonist",
+                "description": "is a young girl who sets out to complete a one-year training to become a full-fledged witch."
+            },
+            {
+                "name": "Jiji",
+                "roles": "protagonist",
+                "description": " Jiji is a sardonic and sarcastic black cat who acts as a Foil and sidekick to Kiki. He comes along with her to the town"
+            },
+            {
+                "name": "Tombo",
+                "roles": "deuteragonist",
+                "description": " The deuteragonist, who tries to befriend Kiki after watching her fly on her broomstick. A little annoying, but ultimately sweet guy and a Gadgeteer Genius."
+            },
+            {
+                "name": "Osono",
+                "roles": "Kikis Guardian",
+                "description": " A warm-hearted and kindly baker. Osono takes in Kiki and becomes a bit of a mother figure to the young witch."
+            }
+        ],
+        "settings": [
+            {
+                "name": "European Metropolis",
+                "description": "The story takes place in an alternative 1950s Europe where WWI and WWII never happened. The fictional city of Kokoro has one side on the shores of the Mediterranean and the other on the Baltic Sea."
+            }
+        ]
+    },
+    {
+        "title": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "release_year": 2001,
+        "genre": "Drama",
+        "plot_summary": "10-year-old Chihiro and her parents  stumble upon a seemingly abandoned amusement park. After her mother and father are turned into giant pigs, Chihiro meets the mysterious Haku , who explains that the park is a resort for supernatural beings who need a break from their time spent in the earthly realm, and that she must work there to free herself and her parents.",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Chihiro",
+                "roles": "Female Protagonist",
+                "description": "Chihiro made her debut in the movie as a whiny and petulant 10-year-old little girl, yet eventually becomes a brave and selfless small girl. "
+            },
+            {
+                "name": "Haku",
+                "roles": "Protagonist",
+                "description": " A mysterious, secretive boy of about sixteen who can take the form of a flying dragon."
+            },
+            {
+                "name": "Yobaba",
+                "roles": "Main Antagonist",
+                "description": "A witch who runs the bathhouse and gives Chihiro a job. Yubaba is strict, greedy, and quick to anger, but she\u2019s also fair and a stickler for following the rules of the spirit world."
+            },
+            {
+                "name": "Lin",
+                "roles": "Main Female Bathhouse Worker",
+                "description": "The main female bathhouse worker. Lin is initially gruff with Chihiro but comes to admire her and act as her big sister."
+            },
+            {
+                "name": "No-Face",
+                "roles": "secondary antagonist",
+                "description": "A sad, voiceless spirit. When No-Face tries to repay Sen for her kindness to him, the results are disastrous. He takes on a frog/worker\u2019s voice after he eats the worker."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Ornate bathhouse",
+                "description": "Small door next to the bath tub."
+            }
+        ]
+    },
+    {
+        "title": "Ponyo",
+        "director": "Hayao Miyazaki",
+        "release_year": 2008,
+        "genre": "Fantasy",
+        "plot_summary": "A charming fairy tale about a goldfish who becomes a girl and a little boy who loves her and introduces her with pride to his world of wonders.",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Ponyo",
+                "roles": "protagonist",
+                "description": "She is a goldfish born from the sea goddess Granmamare and a human named Fujimoto. She is known to love S\u014dsuke and ham."
+            },
+            {
+                "name": "Fujimoto",
+                "roles": "main antagonist",
+                "description": "is slender and appears to be 40-years old, but he may have lived much longer. He claims he was once human, which implies he underwent some changes in order to become the wizard he is now. This may be a clue as to why he has strange, bird-like markings on his cheekbones and around his eyes."
+            },
+            {
+                "name": "Sosuke",
+                "roles": "main protagonist",
+                "description": " is a 5-year-old boy who wears a sunshine yellow t-shirt and chocolate brown shorts. His hair is walnut brown with his hair shaven underneath. Also, he wears a sailor hat and binoculars."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Tomonoura",
+                "description": "A small harbour town on the shores of Japan\u2019s Inland Sea, the Setonaikai. A commercial hub for centuries, changes to modern forms of transport must have suddenly upended Tomonoura\u2019s economy, leaving her citizens without the money to change or rebuild their home. The result is a quiet, well-preserved city, with charming shops, and streets to wander."
+            }
+        ]
+    },
+    {
+        "title": "The Secret World of Arrietty",
+        "director": "Hiromasa Yonebayashi",
+        "release_year": 2010,
+        "genre": "Action",
+        "plot_summary": "Arrietty, a tiny teenager, lives with her parents in the recesses of a suburban home, unbeknown to the homeowner and housekeeper. Like others of her kind, Arrietty remains hidden from her human hosts, but occasionally ventures forth from beneath the floorboards to borrow sugar cubes and other supplies. A secret friendship forms when 12-year-old Shawn meets Arrietty, but their relationship could spell danger for Arrietty's family.",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Arrietty",
+                "roles": "Female Protagonist",
+                "description": "a 14-year-old girl with shoulder-length auburn hair and black eyes."
+            },
+            {
+                "name": "Sho",
+                "roles": "Main Lead",
+                "description": "is shown to be a quiet and very polite boy. However, he is initially listless and pessimistic about his operation, as he has no will to live, thinking that every living person will die, eventually, and he also has a low chance of survival from the operation."
+            },
+            {
+                "name": "Spiller",
+                "roles": "Young Warrior",
+                "description": " is dark skinned with white stripes on both sides of his cheeks. His hair is uneven and spiky, most likely showing he doesn't cut it. His height is not determined but he is shorter than Arrietty. He is slightly muscly and has a sharp face."
+            },
+            {
+                "name": "Haru",
+                "roles": "main antagonist",
+                "description": "Haru wears a brown trousers and orange shirt with beige apron. She wears green glasses and has short, messy brown hair. Her skin is white and she's fairly plump."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Western Tokyo",
+                "description": "The estate is comprised of a small house amid a sprawling green landscape."
+            }
+        ]
+    },
+    {
+        "title": "The Wind Rises",
+        "director": "Hayao Miyazaki",
+        "release_year": 2013,
+        "genre": "Romance",
+        "plot_summary": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A6M World War II fighter plane.",
+        "rating": 98.0,
+        "characters": [
+            {
+                "name": "Jiro",
+                "roles": "protagonist",
+                "description": "has dark brown hair, brown eyes and black glasses. He wears a suit comprised of a white coat with a blue tie, white pants and white hat"
+            },
+            {
+                "name": "Naoko",
+                "roles": "deuterogonist",
+                "description": "Happy, fun, and spirited, she fist meets Jiro when she saves his hat from flying away on the breeze."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Tokyo",
+                "description": "Tokyo before and after the Great Kant\u014d Earthquake in 1923, and several locations in Nagano Prefecture, namely in Karuizawa and the Fujimi Kogen Sanatorium. Unlike previous Ghibli works, The Wind Rises is based on the real-life experiences of author Tatsuo Hori and aviation engineer Jir\u00f4 Horikoshi."
+            }
+        ]
+    },
+    {
+        "title": "Fireworks",
+        "director": "Akiyuki Shinbo",
+        "release_year": 2017,
+        "genre": "Drama",
+        "plot_summary": "This film tells the story of a schoolgirl who finds a pretty transparent ball by the sea, on the day of a fireworks display of a religious festival in a seaside town in Japan. She plans to run away from home to escape from her unhappy home, as her mother is about to remarry for the third time. However, her escape fails until her male classmate finds out the supernatural power that the transparent ball has",
+        "rating": 95.0,
+        "characters": [
+            {
+                "name": "Nazuna",
+                "roles": "protagonist",
+                "description": "A female student whose father died after the divorce. Though she does not have friends, she falls in love with Norimichi."
+            },
+            {
+                "name": "Norimichi",
+                "roles": "protagonist",
+                "description": " A male student learning that fireworks are flat."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Seaside Village",
+                "description": "A small seaside village during the summer, and the day we repeat is the day of a summer fireworks festival at the town\u2019s lighthouse (thus the kids\u2019 argument about flat vs round fireworks)."
+            }
+        ]
+    },
+    {
+        "title": "A Silent Voice",
+        "director": "Naoko Yamada",
+        "release_year": 2016,
+        "genre": "Melodrama",
+        "plot_summary": "A grade-school student with a hearing impairment is bullied and transfers to another school. Years later, the former bully is tormented by his behaviour and sets out to make amends.",
+        "rating": 98.0,
+        "characters": [
+            {
+                "name": "Shoya",
+                "roles": "Male Protagonist",
+                "description": "lived life in a constant war against boredom, often acting rowdy and mischievous in an effort to keep himself amused."
+            },
+            {
+                "name": "Shoko",
+                "roles": "female protagonist",
+                "description": " Sh\u014dko had a strong desire to connect with people around her. However, due to difficulties in communication, she was often met with misunderstanding, disinterest, or bullying."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Ogaki",
+                "description": "Oima\u2019s hometown Ogaki, in Gifu Prefecture, the story proper begins at elementary school when Shoko Nishymiya  arrives as a transfer student."
+            }
+        ]
+    },
+    {
+        "title": "Your Name",
+        "director": "Makoto Shinkai",
+        "release_year": 2016,
+        "genre": "Romance",
+        "plot_summary": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Taki",
+                "roles": "Male Protagonist",
+                "description": "A young man with an average build and height who is noted for being handsome with spiky nape-length brown hair that has bangs covering his forehead and dark blue eyes. At times, he is seen wearing band-aids because of his impulsive personality."
+            },
+            {
+                "name": "Mitsuha",
+                "roles": "Female Protagonist",
+                "description": "A teenage girl of an average build and height who is described as very beautiful and the spitting image of her late mother Futaba Miyamizu with straight upper-back length black hair that she wears in a unique hair-do; two braids on each side tied into a small ponytail with a red, blue and yellow-orange-colored braided cord with bangs hanging on the left side while she has chin-length hair strands hanging on either side and brown eyes."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Itomori, Tokyo",
+                "description": "Mitsuha Miyamizu is a high school student in the rural town of Itomori, Japan. Bored of the town, she wishes to be a Tokyo boy in her next life. Soon, she begins to intermittently switch bodies with Taki Tachibana, a boy from Tokyo."
+            }
+        ]
+    },
+    {
+        "title": "Hello World",
+        "director": "Tomohiko Ito",
+        "release_year": 2019,
+        "genre": "Action",
+        "plot_summary": "A man travels in time from the year 2027 to relive his school years and to correct a bad decision.",
+        "rating": 97.0,
+        "characters": [
+            {
+                "name": "Naomi",
+                "roles": "Male Protagonist",
+                "description": "A 16-year-old high school student living in 2027 Kyoto and the film's protagonist. Initially lacking confidence and decisiveness, he is chosen by his classmates to be a book committee member and whereupon meets and grows close to Ruri. He slowly develops as a person across the film and becomes braver and more steadfast."
+            },
+            {
+                "name": "Ruri",
+                "roles": "Female Protagonist",
+                "description": "Naomi Katagaki's classmate and a fellow book committee member. Unlike Naomi, she is old-fashioned, decisive and confident in her choices, even if they make her stand out."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Kyoto",
+                "description": "In Kyoto in the year 2027, Naomi Katagaki, a male high school student encounters a person who claiming to be Naomi from 10 years in the future. Together, they must change the future and save a classmate, Ruri, whom the younger Naomi starts to date in three months."
+            }
+        ]
+    },
+    {
+        "title": "Wolf Children",
+        "director": "Mamoru Hosoda",
+        "release_year": 2012,
+        "genre": "Horror",
+        "plot_summary": "After her werewolf lover unexpectedly dies in an accident, a woman must find a way to raise the son and daughter that she had with him. However, their inheritance of their father's traits prove to be a challenge for her.",
+        "rating": 97.0,
+        "characters": [
+            {
+                "name": "Yuki",
+                "roles": "protagonist",
+                "description": "Yuki was very energetic and happy-go-lucky. Venturous, she liked to explore the outside world, run around and chase small prey."
+            },
+            {
+                "name": "Ame",
+                "roles": "protagonist",
+                "description": "Ame was a very timid boy. Unlike his sister Yuki, he preferred to stay at home and close to his mom, Hana, instead of venturing around."
+            },
+            {
+                "name": "Wolf Man",
+                "roles": "Father",
+                "description": "Little is known about Wolf Man. He seemed to be a calm but nice man who was shown to have a strong paternal instinct, probably due to his wolf instinct. Like any other wolf or wild animal, he preyed for food, for the survival of his mate and offspring."
+            },
+            {
+                "name": "Hana",
+                "roles": "Mother",
+                "description": "Hana is a very optimistic and up-beat young woman who has gone through her fair share of hardships."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Kunitachi",
+                "description": "Kunitachi is a city located in the western portion of T\u014dky\u014d Metropolis, in the central Kant\u014d region of Japan. This is where the \"Hokushin Dry Cleaners\" and the \"Hakuj\u016bji\" stores are located, as well as the \"Asahi Children's Hospital\" and the \"UOTA Animal Hospital\"."
+            }
+        ]
+    },
+    {
+        "title": "Garden of Words",
+        "director": "Makoto Shinkai",
+        "release_year": 2013,
+        "genre": "Romance",
+        "plot_summary": "When a lonely teenager decides to miss his morning lessons in favour of sitting in a lovely garden, he meets a mysterious older woman who shares his feelings of alienation.",
+        "rating": 96.0,
+        "characters": [
+            {
+                "name": "Yukari",
+                "roles": "protagonist",
+                "description": "is one of the main characters in The Garden of Words, as well as a minor character in Your Name."
+            },
+            {
+                "name": "Takao",
+                "roles": "protagonist",
+                "description": "is one of the main characters in The Garden of Words. He is a fifteen-year-old high school student and an aspiring shoemaker. On rainy mornings, he skips school and builds a close relationship with Yukari Yukino."
+            }
+        ],
+        "settings": [
+            {
+                "name": " Shinjuku Park in central Tokyo",
+                "description": "Set in contemporary Tokyo, it's the story of a schoolboy, Takao, who's in the habit of walking through a park on wet days, when the rain gives a magic appearance to the green retreat."
+            }
+        ]
+    },
+    {
+        "title": "Whisper of Heart",
+        "director": "Yoshifumi Kondo",
+        "release_year": 1995,
+        "genre": "Romance",
+        "plot_summary": "Shizuku, an inquisitive young girl and a voracious reader, who longs to be a writer when she grows up. One day she notices that all of her library books have previously been taken out by one Seiji Amasawa. Amid chasing after a large cat, befriending an eccentric antiques dealer and writing her first novel, Shizuku aims to find this mysterious boy who may well be her soul mate.",
+        "rating": 98.0,
+        "characters": [
+            {
+                "name": "Seiji",
+                "roles": "protagonist",
+                "description": "Seiji has short, dark hair and white skin. His eyebrows are brown and his eyes are dark, the same black/brown color of his hair. His face is long and his forehead is wide, his chin ending with a point."
+            },
+            {
+                "name": "The Baron",
+                "roles": "protagonist",
+                "description": "He is a very skilled fighter and a swordman to be able to overwhelm two soldiers at once."
+            },
+            {
+                "name": "Shizuku",
+                "roles": "protagonist",
+                "description": "A slender fourteen years old girl with short umber brown hair which reaches slightly below her ears and the same colored eyes, although it looks black due to the animation style."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Tama City",
+                "description": "The film is set in Tama City in western Tokyo. One day Shizuku notices a large cat at the station, which she follows around the hilly town."
+            }
+        ]
+    },
+    {
+        "title": "Ride Your Waves",
+        "director": "Masaaki Yuasa",
+        "release_year": 2019,
+        "genre": "Comedy",
+        "plot_summary": "Surf-loving college student Hinako must find joy and purpose in life again, after a terrible tragedy results in the death of her firefighter boyfriend Minato.",
+        "rating": 100.0,
+        "characters": [
+            {
+                "name": "Hinako",
+                "roles": "female protagonist",
+                "description": "Hinako is a tall young woman with brown eyes. Her height is 175cm. Her over the shoulders hair, typically tied up in a bun, is a light brown hair. Casually, she wears a orange and white striped flowy short sleeved cardigan. Along with a loose light yellow t-shirt and rolled light blue shorts with white open toed shoes."
+            },
+            {
+                "name": "Minato",
+                "roles": "male protagonist",
+                "description": "He is a kind boy who likes to care about others before himself. He has a strong sense of justice, and his team trusts him. Many people believe that he knows how to do everything, but to achieve such efforts he had to work hard."
+            },
+            {
+                "name": "Wasabi",
+                "roles": "Second Lead",
+                "description": "A light-brown messy haired male with green eyes. His height is rather average. Towards the end of the movie, his hair can be seen cut far shorter."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Seaside City",
+                "description": " Relocating to Chiba to begin university studies in oceanography, avid surfer Hinako finds herself right at home in the seaside city, where she can hit the waves anytime after just a short bike ride down to the beach."
+            }
+        ]
+    },
+    {
+        "title": "Josee, The Tiger and the Fish",
+        "director": "Kotaro Tamura",
+        "release_year": 2020,
+        "genre": "Horror",
+        "plot_summary": "Tsuneo is a university student, and Josee is a young girl who has rarely gone out of the house by herself due to her being unable to walk. The two meet when Tsuneo finds Josee's grandmother taking her out for a morning walk.",
+        "rating": 98.0,
+        "characters": [
+            {
+                "name": "Josee",
+                "roles": "female protagonist",
+                "description": "A fair-skinned girl with wavy shoulder-length light-brown hair that is usually seen loose, but she sometimes has a different style such as half of it pulled up with short, squarish bangs hanging above her eyebrows, her eyes are large and their irises a pink-purple, with rather thick upper eyelashes; three more prominent ones protruding slightly to either side, some blush on her cheeks and she has a slender figure."
+            },
+            {
+                "name": "Tsuneo",
+                "roles": "deuteragonist",
+                "description": "Tall and slim, he has medium length straight black hair and light green eyes."
+            }
+        ],
+        "settings": [
+            {
+                "name": "Osaka",
+                "description": "The anime is set in Osaka. Tsuneo Suzukawa is a 22-year-old university student studying marine biology. He works part-time at a diving shop, where he bonds with coworkers Mai and Hayato. On his way home after a lecture, he saves a paraplegic young woman named Kumiko Yamamura, who insists on being called \"Josee\"."
+            }
+        ]
+    },
+    {
+        "title": "Ocean Waves",
+        "director": "Tomomi Mochizuki",
+        "release_year": 1993,
+        "genre": "Drama",
+        "plot_summary": "As he journeys back from Tokyo to his high school for a reunion, Taku Morisaki recounts his memories of his school days, focussing in particular on a love triangle that developed between him and two of his friends.",
+        "rating": 98.0,
+        "characters": [
+            {
+                "name": "Taku",
+                "roles": "Main Protagonist ",
+                "description": "Taku, needing money for the school's trip to Hawaii, took his restaurant busboy job to offset the expense, at the cost of falling grades and his teachers' disapproval. He can be blunt to the point of tactlessness. After graduating from high school, he went on to a university in Tokyo and stayed in an apartment near Shakujii Park (\u77f3\u795e\u4e95\u516c\u5712, Shakujii K\u014den). His parents' live in Mt. Godai, K\u014dchi City."
+            },
+            {
+                "name": "Rikako",
+                "roles": "The Heroine",
+                "description": "Due to familial problems, Rikako moved from Tokyo to K\u014dchi to be with her mother's parents. She's a pretty second-year high schooler (eleventh grader) with an excellent academic record and is active in sports, but is not good at socializing. She hardly participates in class activities and has only one friend, Yumi Kohama. After graduating from high school, she took the entrance exam for K\u014dchi University and passed, but she also secretly took the entrance exam for a women's college in Tokyo and attended that instead."
+            },
+            {
+                "name": "Yukata",
+                "roles": "Second Lead",
+                "description": "Taku's friend and rival for Rikako's affections. Yutaka and Taku became friends when they jointly campaigned against the cancellation of their junior high school trip due to the school's low test scores. After graduating from high school, he enrolled at Kyoto University ( \"National University of Kyoto\" in the anime)."
+            }
+        ],
+        "settings": [
+            {
+                "name": "City of K\u014dchi",
+                "description": "The film is set in the city of K\u014dchi, and follows a love triangle that develops between two good friends and a new girl who transfers to their high school from Tokyo."
+            }
+        ]
+    }
+]
